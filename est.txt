@@ -1,216 +1,216 @@
-212.47.219.162/banners
-2mdn.net
-ad.dumedia.ru
-ad.mylook.ee
-adbox.lv
-adbrite.com
-adbull.com
-adbureau.net
-adclick.co.ee
-adengage.com
-adform.net
-adition.com
-adkontekst.pl
-adland.ru
-adlegend.com
-admeld.com
-admin.naistemaailm.ee/upload/images/reklaam/*
-admixer.net
-admp-tc.delfi.ee
-admulti.com
-adnet.ee
-adnetmedia.ee
-adnxs.com
-adocean.pl
-adonspot.com
-adonweb.ru
-adreactor.com
-adriver.ru
-ads.ee
-adserver.com
-adsfac.eu
-adtaily.pl
-adtarget.me
-adtech.de
-adtechus.com
-adtegrity.net
-adultadvertising.net
-adultfriendfinder.com
-advertising.aol.com
-advertising.com
-advertserve.com
-afilo.pl
-afy11.net
-ahcdns.com
-aimatch.com
-ajaleht.ekspress.ee/*/reklaam_*
-am10.ru
-am11.ru
-an.yandex.ru/system/context.js
-ap.delfi.ee
-apex-ad.com
-aripaev.ee/js/banners.min.js
-atdmt.com
-axf8.net
-bannerboxes.com
-bannerhost.ru
-bannex.ee
-bbelements.com
-begun.ru
-bepolite.eu
-bidvertiser.com
-bizographics.com
-bkrtx.com
-blog.tr.ee/banner
-blogads.com
-bluekai.com
-bluelithium.com
-bnrs.ilm.ee
-brazzers.com
-budsinc.com
-buduaar.ee/files/Upload/Banners
-buduaar.ee/files/Upload/marketItems
-casalemedia.com
-chartbeat.com
-chartbeat.net
-cherry.ee
-cherrystatic.net,domain=~cherry.ee
-cherrystatic.net/banners
-chitika.net
-city24.ee,domain=~city24.postimees.ee
-collective-media.com
-connextra.com
-contextweb.com
-cpxinteractive.com
-crowdscience.com
-crwdcntrl.net
-cxense.com
-dclick.ru
-delfi.ee/misc/cobancar/*.php
-domdex.com
-doubleclick.be
-doubleclick.com
-doubleclick.de
-doubleclick.net
-doublepimp.com
-dowjoneson.com
-dt00.net
-eloqua.com
-estara.com
-etology.com
-extreme-dm.com
-fastclick.net
-fastonlineusers.com
-fortumo.ee
-freeze.com
-fwmrm.net,domain=~tv3play.ee|~tv3.ee
-gemius.pl
-getclicky.com
-googleadservices.com
-googlesyndication.com
-harrenmedianetwork.com
-hbmediapro.com
-hitbox.com
-hitfarm.com
-ilm24.ee/uus/ban/
-img.auto24.ee/banners/ox/*
-imgsrv.kuldnebors.ee/banners/$image
-imgsrv.kuldnebors.ee/static/banners/$image
-imlive.com
-impartner.lt
-invitemedia.com
-ixnp.com
-kalale.ee/media/b2nnerid
-klikivabrik.ee
-klikki.com
-kqzyfj.com
-laanlane.ee/reklaam*
-lekane.net
-lpdigileht.epl.ee/*/reklaam_*
-luxup.ru
-magnetic.is
-marketgid.com
-maxtraffic.com
-maxtraffic.eu
-mediaindex.ee
-mediaplex.com
-metaffiliation.com
-msads.net
-neoffic.com
-netaffiliation.com
-neti.ee/reklaam
-netsales.pl
-newrelic.com
-novem.pl
-olark.com
-onthe.io
-openx.org
-overture.com
-oxado.com
-pakkumised.ee
-pardot.com
-passion.com
-pcads.ru
-perefoorum.ee/banner
-perekool.ee/banners
-pheedo.com
-pop6.com
-pro-9.com
-pro-market.net
-realmedia.com
-reklaam.kava.ee
-reklaam.keskus.ee
-reklaam.nagi.ee
-reklaam.naistemaailm.ee
-relevant.fi
-rmxads.com
-roiservice.com
-scorecardresearch.com
-searchco.com
-serving-sys.com
-sexinyourcity.com
-smartad.ee
-smartadserver.com
-sn00.net
-specificclick.net
-spring-tns.net
-spylog.com
-spylog.ru
-starwave.com
-static.chilli.ee
-statistik-gallup.net
-streamray.com
-sweetmedia.org
-tacoda.net
-teasernet.com
-textads.ee
-tns-counter.ru
-toidutare.ee/img/ads
-traceworks.com
-trackalyzer.com
-tradedoubler.com
-trafficjunky.net
-tribalfusion.com
-trigger.ee
-ui-portal.de^,domain=~mail.com|~gmx.com
-uimserv.net
-underclick.ru
-v.postimees.ee/proxy-ads/*
-ventivmedia.com
-viglink.com
-way2traffic.com
-webtrendslive.com
-wsod.com
-www.postimees.ee/newsletter/block
-xgraph.net
-xiti.com
-xtendmedia.com
-yadro.ru
-yceml.net
-yieldmanager.com
-ytsa.net
-yyr.ee/images/banners
-zangocash.com
-zanox-affiliate.de
-zedo.com
-ztod.com
+0.0.0.0 212.47.219.162/banners
+0.0.0.0 2mdn.net
+0.0.0.0 ad.dumedia.ru
+0.0.0.0 ad.mylook.ee
+0.0.0.0 adbox.lv
+0.0.0.0 adbrite.com
+0.0.0.0 adbull.com
+0.0.0.0 adbureau.net
+0.0.0.0 adclick.co.ee
+0.0.0.0 adengage.com
+0.0.0.0 adform.net
+0.0.0.0 adition.com
+0.0.0.0 adkontekst.pl
+0.0.0.0 adland.ru
+0.0.0.0 adlegend.com
+0.0.0.0 admeld.com
+0.0.0.0 admin.naistemaailm.ee/upload/images/reklaam/*
+0.0.0.0 admixer.net
+0.0.0.0 admp-tc.delfi.ee
+0.0.0.0 admulti.com
+0.0.0.0 adnet.ee
+0.0.0.0 adnetmedia.ee
+0.0.0.0 adnxs.com
+0.0.0.0 adocean.pl
+0.0.0.0 adonspot.com
+0.0.0.0 adonweb.ru
+0.0.0.0 adreactor.com
+0.0.0.0 adriver.ru
+0.0.0.0 ads.ee
+0.0.0.0 adserver.com
+0.0.0.0 adsfac.eu
+0.0.0.0 adtaily.pl
+0.0.0.0 adtarget.me
+0.0.0.0 adtech.de
+0.0.0.0 adtechus.com
+0.0.0.0 adtegrity.net
+0.0.0.0 adultadvertising.net
+0.0.0.0 adultfriendfinder.com
+0.0.0.0 advertising.aol.com
+0.0.0.0 advertising.com
+0.0.0.0 advertserve.com
+0.0.0.0 afilo.pl
+0.0.0.0 afy11.net
+0.0.0.0 ahcdns.com
+0.0.0.0 aimatch.com
+0.0.0.0 ajaleht.ekspress.ee/*/reklaam_*
+0.0.0.0 am10.ru
+0.0.0.0 am11.ru
+0.0.0.0 an.yandex.ru/system/context.js
+0.0.0.0 ap.delfi.ee
+0.0.0.0 apex-ad.com
+0.0.0.0 aripaev.ee/js/banners.min.js
+0.0.0.0 atdmt.com
+0.0.0.0 axf8.net
+0.0.0.0 bannerboxes.com
+0.0.0.0 bannerhost.ru
+0.0.0.0 bannex.ee
+0.0.0.0 bbelements.com
+0.0.0.0 begun.ru
+0.0.0.0 bepolite.eu
+0.0.0.0 bidvertiser.com
+0.0.0.0 bizographics.com
+0.0.0.0 bkrtx.com
+0.0.0.0 blog.tr.ee/banner
+0.0.0.0 blogads.com
+0.0.0.0 bluekai.com
+0.0.0.0 bluelithium.com
+0.0.0.0 bnrs.ilm.ee
+0.0.0.0 brazzers.com
+0.0.0.0 budsinc.com
+0.0.0.0 buduaar.ee/files/Upload/Banners
+0.0.0.0 buduaar.ee/files/Upload/marketItems
+0.0.0.0 casalemedia.com
+0.0.0.0 chartbeat.com
+0.0.0.0 chartbeat.net
+0.0.0.0 cherry.ee
+0.0.0.0 cherrystatic.net,domain=~cherry.ee
+0.0.0.0 cherrystatic.net/banners
+0.0.0.0 chitika.net
+0.0.0.0 city24.ee,domain=~city24.postimees.ee
+0.0.0.0 collective-media.com
+0.0.0.0 connextra.com
+0.0.0.0 contextweb.com
+0.0.0.0 cpxinteractive.com
+0.0.0.0 crowdscience.com
+0.0.0.0 crwdcntrl.net
+0.0.0.0 cxense.com
+0.0.0.0 dclick.ru
+0.0.0.0 delfi.ee/misc/cobancar/*.php
+0.0.0.0 domdex.com
+0.0.0.0 doubleclick.be
+0.0.0.0 doubleclick.com
+0.0.0.0 doubleclick.de
+0.0.0.0 doubleclick.net
+0.0.0.0 doublepimp.com
+0.0.0.0 dowjoneson.com
+0.0.0.0 dt00.net
+0.0.0.0 eloqua.com
+0.0.0.0 estara.com
+0.0.0.0 etology.com
+0.0.0.0 extreme-dm.com
+0.0.0.0 fastclick.net
+0.0.0.0 fastonlineusers.com
+0.0.0.0 fortumo.ee
+0.0.0.0 freeze.com
+0.0.0.0 fwmrm.net,domain=~tv3play.ee|~tv3.ee
+0.0.0.0 gemius.pl
+0.0.0.0 getclicky.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 harrenmedianetwork.com
+0.0.0.0 hbmediapro.com
+0.0.0.0 hitbox.com
+0.0.0.0 hitfarm.com
+0.0.0.0 ilm24.ee/uus/ban/
+0.0.0.0 img.auto24.ee/banners/ox/*
+0.0.0.0 imgsrv.kuldnebors.ee/banners/$image
+0.0.0.0 imgsrv.kuldnebors.ee/static/banners/$image
+0.0.0.0 imlive.com
+0.0.0.0 impartner.lt
+0.0.0.0 invitemedia.com
+0.0.0.0 ixnp.com
+0.0.0.0 kalale.ee/media/b2nnerid
+0.0.0.0 klikivabrik.ee
+0.0.0.0 klikki.com
+0.0.0.0 kqzyfj.com
+0.0.0.0 laanlane.ee/reklaam*
+0.0.0.0 lekane.net
+0.0.0.0 lpdigileht.epl.ee/*/reklaam_*
+0.0.0.0 luxup.ru
+0.0.0.0 magnetic.is
+0.0.0.0 marketgid.com
+0.0.0.0 maxtraffic.com
+0.0.0.0 maxtraffic.eu
+0.0.0.0 mediaindex.ee
+0.0.0.0 mediaplex.com
+0.0.0.0 metaffiliation.com
+0.0.0.0 msads.net
+0.0.0.0 neoffic.com
+0.0.0.0 netaffiliation.com
+0.0.0.0 neti.ee/reklaam
+0.0.0.0 netsales.pl
+0.0.0.0 newrelic.com
+0.0.0.0 novem.pl
+0.0.0.0 olark.com
+0.0.0.0 onthe.io
+0.0.0.0 openx.org
+0.0.0.0 overture.com
+0.0.0.0 oxado.com
+0.0.0.0 pakkumised.ee
+0.0.0.0 pardot.com
+0.0.0.0 passion.com
+0.0.0.0 pcads.ru
+0.0.0.0 perefoorum.ee/banner
+0.0.0.0 perekool.ee/banners
+0.0.0.0 pheedo.com
+0.0.0.0 pop6.com
+0.0.0.0 pro-9.com
+0.0.0.0 pro-market.net
+0.0.0.0 realmedia.com
+0.0.0.0 reklaam.kava.ee
+0.0.0.0 reklaam.keskus.ee
+0.0.0.0 reklaam.nagi.ee
+0.0.0.0 reklaam.naistemaailm.ee
+0.0.0.0 relevant.fi
+0.0.0.0 rmxads.com
+0.0.0.0 roiservice.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 searchco.com
+0.0.0.0 serving-sys.com
+0.0.0.0 sexinyourcity.com
+0.0.0.0 smartad.ee
+0.0.0.0 smartadserver.com
+0.0.0.0 sn00.net
+0.0.0.0 specificclick.net
+0.0.0.0 spring-tns.net
+0.0.0.0 spylog.com
+0.0.0.0 spylog.ru
+0.0.0.0 starwave.com
+0.0.0.0 static.chilli.ee
+0.0.0.0 statistik-gallup.net
+0.0.0.0 streamray.com
+0.0.0.0 sweetmedia.org
+0.0.0.0 tacoda.net
+0.0.0.0 teasernet.com
+0.0.0.0 textads.ee
+0.0.0.0 tns-counter.ru
+0.0.0.0 toidutare.ee/img/ads
+0.0.0.0 traceworks.com
+0.0.0.0 trackalyzer.com
+0.0.0.0 tradedoubler.com
+0.0.0.0 trafficjunky.net
+0.0.0.0 tribalfusion.com
+0.0.0.0 trigger.ee
+0.0.0.0 ui-portal.de^,domain=~mail.com|~gmx.com
+0.0.0.0 uimserv.net
+0.0.0.0 underclick.ru
+0.0.0.0 v.postimees.ee/proxy-ads/*
+0.0.0.0 ventivmedia.com
+0.0.0.0 viglink.com
+0.0.0.0 way2traffic.com
+0.0.0.0 webtrendslive.com
+0.0.0.0 wsod.com
+0.0.0.0 www.postimees.ee/newsletter/block
+0.0.0.0 xgraph.net
+0.0.0.0 xiti.com
+0.0.0.0 xtendmedia.com
+0.0.0.0 yadro.ru
+0.0.0.0 yceml.net
+0.0.0.0 yieldmanager.com
+0.0.0.0 ytsa.net
+0.0.0.0 yyr.ee/images/banners
+0.0.0.0 zangocash.com
+0.0.0.0 zanox-affiliate.de
+0.0.0.0 zedo.com
+0.0.0.0 ztod.com
